@@ -1,0 +1,301 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Online Training with Microsoft International Certification</title>
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta name="Keywords" content=" Online Training ,MTA Summer Training, Microsoft Summer Training, Microsoft Summer Training 2021, Summer Training 2021" />
+    <meta name="Description" content="MTA India offers leading Microsoft Summer Training & Online Training with international certification. Visit here to get complete information about this certified training course and get appointed in different large scale industries." />
+    <link rel="alternate" href="https://mtaindia.org/" hreflang="en-in" />
+    <meta name="author" content="MTA India" />
+    <meta name="robots" content="all" />
+    <meta name="robots" content="noydir" />
+    <meta name="robots" content="noodp" />
+    <meta name="robots" content="index, follow" />
+
+    <link rel="favicon" href="https://mtaindia.org/assets/images/favicon.png">
+    <link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+    <link rel="stylesheet" href="https://mtaindia.org/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap-theme.css" media="screen">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
+
+    <style>
+        #head.secondary {
+            padding-top: 0px;
+            /* background: #3d84e6; */
+            text-align: center;
+            padding: 21px 0;
+            height: 140px;
+        }
+        .navbar-brand1 img {
+            width: 171px;
+            margin-top: 0 !important;
+            position: absolute;
+            right: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div style="background-color:#3e3edb;">
+        <div class="container">
+            <div class="row" style=" padding-bottom: 7px;padding-top: 7px;">
+                <div class="col-md-5">
+                    <span style="color:#fff;font-size: small;">
+                        <b>
+                            <i class="fa fa-home" style="font-size: 17px;"></i> Welcome to MTA India &nbsp; | &nbsp;
+
+                            <span style="color:#fff;">
+                                <b>
+                                    Call & Whatsapp :  +91 7827574047 &nbsp;
+                                </b>
+                            </span>
+                    </span>
+                </div>
+                <div class="col-md-5" style="margin-left:-10px;font-size: small;">
+                    <span>
+                        <b>
+                            <a href="../StudentRegister" style="color:#fff;text-decoration:none;" target="_blank">
+                                <i class="fa fa-laptop"></i>
+                                Register
+                            </a>  <a href="../groupdiscount" style="color:#fff;text-decoration:none;" target="_blank">
+                                &nbsp; &nbsp; <i class="fa fa-users">
+                                    <b>Group Registration</b>
+                                </i>
+                            </a>
+                            <a href="../studentlogin" style="color:#fff; text-decoration:none;">
+                                &nbsp; &nbsp; <i class="fa fa-user">&nbsp<b>Login</b></i>
+                            </a>
+                            <a href="../blog" target="_blank" style="color:#fff; text-decoration:none;">
+                                &nbsp; &nbsp; <i class="fa fa-book">&nbsp;<b>Our Blog</b></i>
+                            </a>
+                        </b>
+                    </span>
+                </div>
+                <div class="col-md-2">
+                    <a href="https://twitter.com/mtaindia" style="color:#fff; font-size:17px" target="_blank" title="twitter">
+                        <i class="fa fa-twitter"> &nbsp;  &nbsp;   </i>
+                    </a>
+                    <a href="https://www.facebook.com/mtaindia.org" style="color:#fff; font-size:17px" target="_blank" title="facebook"><i class="fa fa-facebook"> &nbsp;  &nbsp;  </i></a>
+                    <a href="https://www.instagram.com/mtaindia" style="color:#fff; font-size:17px" target="_blank" title="instagram"><i class="fa fa-dribbble"> &nbsp;  &nbsp;  </i></a>
+                    <a href="https://in.linkedin.com/company/mtaindiaorg" style="color:#fff; font-size:17px" target="_blank"><i class="fa fa-linkedin" title="linkedin"> &nbsp;  &nbsp; </i></a>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Header -->
+    <header id="head" class="secondary">
+        <div class="container" align="center">
+            <div class="navbar-header">
+                <!-- Button for smallest screens -->
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../Home">
+                    <img src="https://mtaindia.org/assets/images/logo.png" alt="Welcome in MTA India">
+                </a>
+            </div>
+            <div class="navbar-collapse collapse" style="margin-top:21px;">
+                <ul class="nav navbar-nav pull-center mainNav" style="margin-left:20px;">
+                    <li><a href="https://mtaindia.org/">Home</a></li>
+                    <li><a href="https://mtaindia.org/about">About</a></li>
+                    <li><a href="https://mtaindia.org/course-fees" title="MTA Winter Online Summer Training Program course Fees">Fee Structure</a></li>
+                    <li class="dropdown">
+                        <a href="https://mtaindia.org/online-training" class="dropdown-toggle" data-toggle="dropdown">Program<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+
+                            <li><a href="https://www.mtaindia.org/online-training" title="MTA Online Live Training Program">Online Training Program</a></li>
+                            <li><a href="https://mtaindia.org/winter-training" title="MTA Winter Training Program">Winter Training Program</a></li>
+                            <li><a href="https://mtaindia.org/summer-training" title="MTA Summer Training Program">Summer Training Internship</a></li>
+                            <li><a href="https://mtaindia.org/summer-industrial-training-for-polytechnic-diploma-students-in-noida-lucknow" title="Polytechnic Summer Training Program">Polytechnic Summer Training</a></li>
+
+
+
+                        </ul>
+                    </li>
+                    <li><a href="https://www.mtaindia.org/coursefees">Fees</a></li>
+                    <li><a href="https://www.mtaindia.org/courses">Courses</a></li>
+
+                    <li><a href="https://www.mtaindia.org/summer-training-batch-schedule">Batches</a></li>
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Internship <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.mtaindia.org/winter-internship">Winter internship</a></li>
+                            <li><a href="https://www.mtaindia.org/summer-internship">Summer internship</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="https://mtaindia.org/mta-certification" title="MTA certification">Certification</a></li>
+
+                    <li><a href="https://mtaindia.org/contact" title="MTA Summer & Winter Training Program Contact Details">Contact</a></li>
+
+                </ul>
+                <a class="navbar-brand1" href="https://mtaindia.org/">
+                    <img src="https://mtaindia.org/assets/images/MTA20logo.png" alt="Online Training">
+                </a>
+            </div>
+        </div>
+    </header>
+
+
+    <!-- /Header -->
+    <!--------------------------------->
+    <div class="container">
+        <div class="row" style="text-align:center;">
+            <img src="https://mtaindia.org/img/404-Pages.jpg" alt="404 Image" title="sorry page not found" width="70%" height="70%" />
+            <h3> Sorry page could not found back to <a href="https://mtaindia.org" title="Go to Home Page">Home</a></h3>
+        </div>
+
+
+
+    </div>
+
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footerbottom">
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footerwidget">
+                            <h4>
+                                TERMS & POLICY
+                            </h4>
+                            <div class="menu-course">
+                                <ul class="menu">
+                                    <li>
+                                        <a href="https://www.mtaindia.org/termsconditions" title="MTA Trainig Terms & Conditions">
+                                            Terms & Conditions
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/privacypolicy" title="MTA Privacy Policy">
+                                            Privacy Policy
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/refoundpolicy" title="MTA Refund Policy">
+                                            Refund Policy
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footerwidget">
+                            <h4>
+                                PROGRAMS
+                            </h4>
+                            <div class="menu-course">
+                                <ul class="menu">
+                                    <li>
+                                        <a href="https://www.mtaindia.org/winter-training" title="MTA Winter Training">
+                                            MTA  Winter Training
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/summer-training" title="MTA Summer Training ">
+                                            Summer Training
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/online-training" title="MTA Online Training Prgram">
+                                            Online Training Program
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footerwidget">
+                            <h4>
+                                OUR COURSES
+                            </h4>
+                            <div class="menu-course">
+                                <ul class="menu">
+                                    <li>
+                                        <a href="https://www.mtaindia.org/courses/python" title="MTA Training with python">
+                                            Python
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/courses/machine-learning-python" title="MTA Training with Machine Learning Python">
+                                            Machine Learning with Python
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.mtaindia.org/courses" title="MTA Courses">
+                                            More
+                                        </a>
+                                    </li>
+
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="footerwidget">
+                            <h4> FOR ANY QUERY</h4>
+                            <div class="contact-info">
+                                <i class="fa fa-phone"></i> +91 7827574047 <br><br>
+                                <i class="fa fa-envelope-o"></i> info@mtaindia.org
+                            </div>
+                        </div><!-- end widget -->
+                    </div>
+                </div>
+            </div>
+            <div class="social text-center">
+                <a href="https://www.facebook.com/mtaindia.org"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/mtaindia123"><i class="fa fa-twitter"></i></a>
+                <a href="https://in.linkedin.com/company/mtaindiaorg"><i class="fa fa-linkedin"></i></a>
+
+            </div>
+
+            <div class="clear"></div>
+            <!--CLEAR FLOATS-->
+        </div>
+        <div class="footer2">
+            <div class="container">
+                <div class="row" style="background-color:#000;">
+
+                    <div class="col-md-6">
+                        <div class="panel-body">
+                            <p class="simplenav">
+                                <a href="https://www.mtaindia.org">Home</a> |
+                                <a href="https://www.mtaindia.org/gallery">Gallery</a> |
+                                <a href="https://www.mtaindia.org/faq">FAQ</a> |
+                                <a href="https://www.mtaindia.org/summer-training">Trainings</a> |
+
+                                <a href="https://www.mtaindia.org/contact">Contact</a>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="panel-body">
+                            <p class="text-right">
+                                Copyright &copy;
+
+                                2020.  <a href="https://www.mtaindia.org" rel="develop">Microdot Tech Aspire Solutions (P) Ltd.</a>
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /row of panels -->
+            </div>
+        </div>
+    </footer>
+
+
+
+</body>
+</html>
